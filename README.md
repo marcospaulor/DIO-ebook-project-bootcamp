@@ -7,11 +7,11 @@ Este projeto consiste na criação de um eBook que documenta o desenvolvimento d
 
 ## Estrutura do Repositório
 - **/prompts.md**: Contém todos os prompts utilizados para criar o eBook com o Grok 3, incluindo o prompt para a capa gerada com ChatGPT e MidJourney.
-- **/Primeiro Ebook - UFCAT Serviços.pdf**: Arquivo de texto com o conteúdo completo do eBook "Flutter Do Zero ao App: Minha Jornada Épica com o UFCAT Serviços".
+- **Primeiro-eBook-UFCAT-Serviços.pdf**: Arquivo de texto com o conteúdo completo do eBook "Flutter Do Zero ao App: Minha Jornada Épica com o UFCAT Serviços".
 - **(Opcional)**: Links ou arquivos adicionais, como templates no Figma ou banco de dados, podem ser adicionados conforme necessário.
 
 ## Link para o Artigo
-O eBook completo pode ser acessado neste repositório no arquivo [Primeiro Ebook - UFCAT Serviços.pdf](Primeiro\ Ebook\ -\ UFCAT\ Serviços.pdf). Recomendo lê-lo para entender o processo de desenvolvimento e as lições aprendidas.
+O eBook completo pode ser acessado neste repositório no arquivo [Primeiro-eBook-UFCAT-Serviços.pdf](Primeiro-eBook-UFCAT-Serviços.pdf). Recomendo lê-lo para entender o processo de desenvolvimento e as lições aprendidas.
 
 ## Como Utilizar este Repositório
 1. **Clone o Repositório**: Use o comando `git clone https://github.com/seu-usuario/seu-repositorio.git` para baixar o projeto localmente.
