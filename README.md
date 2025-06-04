@@ -16,25 +16,18 @@ O eBook completo pode ser acessado neste repositório no arquivo [Primeiro-eBook
 ## Como Utilizar este Repositório
 1. **Clone o Repositório**: Use o comando `git clone https://github.com/seu-usuario/seu-repositorio.git` para baixar o projeto localmente.
 2. **Explore os Prompts**: Veja o arquivo `prompts.md` para entender como o eBook foi criado iterativamente.
-3. **Leia o eBook**: Abra o arquivo `ebook.txt` para acessar o conteúdo detalhado.
+3. **Leia o eBook**: Abra o arquivo `Primeiro-eBook-UFCAT-Serviços.pdf` para acessar o conteúdo detalhado.
 4. **Contribua**: Sinta-se à vontade para sugerir melhorias ou dar um "fork" para criar sua própria versão!
 
 ## Ferramentas Utilizadas
 - **Flutter**: Framework para desenvolvimento do aplicativo móvel.
 - **Firebase**: Backend para gerenciamento de dados em tempo real.
 - **Grok 3 (xAI)**: IA utilizada para gerar o conteúdo do eBook.
-- **ChatGPT & MidJourney**: Ferramentas para criar a imagem da capa.
+- **ChatGPT**: Ferramentas para criar a imagem da capa.
 - **GitHub**: Versionamento e hospedagem do projeto.
 
 ## Inspiração e Referências
 Este projeto foi inspirado no repositório [Prompts Recipe to Create a eBook](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook) de Felipe Aguiar. Dei um "fork" nesse repositório para organizar minhas alterações e evoluções, mantendo uma referência ao código-fonte original como sugerido no desafio.
-
-## Como Enviar seu Projeto
-Siga estas etapas para entregar o projeto à DIO:
-- Crie um repositório no GitHub com os prompts em `prompts.md`.
-- Salve o eBook em `ebook.txt` dentro do repositório.
-- Adicione o link do artigo (este README) no `README.md`.
-- Envie o link do repositório (ex.: `https://github.com/seu-usuario/seu-repositorio`) para a DIO.
 
 ## Agradecimentos
 Agradeço à DIO por proporcionar este desafio e à comunidade da UFCAT, cujos feedbacks foram essenciais para o sucesso do *UFCAT Serviços*. Vamos continuar aprendendo e criando juntos!
